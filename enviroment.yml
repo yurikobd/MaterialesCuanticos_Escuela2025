@@ -1,0 +1,10 @@
+name: kwantenv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy=1.21
+  - sympy=1.10
+  - matplotlib=3.5
+  - kwant=1.4
+  - pip
