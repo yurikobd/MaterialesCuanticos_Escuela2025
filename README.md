@@ -1,0 +1,1 @@
+Este repositorio contiene el material de la Escuela Materiales Cuánticos (Teoría, Simulación), parte de la **Escuela-Congreso “100 años de revolución cuántica: Transformando el conocimiento, la industria y la sociedad** . 
