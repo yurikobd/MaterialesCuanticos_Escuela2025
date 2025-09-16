@@ -1,4 +1,4 @@
-name: kwantenv
+name: mybinder-env
 channels:
   - conda-forge
 dependencies:
@@ -8,3 +8,5 @@ dependencies:
   - matplotlib=3.5
   - kwant=1.4
   - pip
+  - pip:
+      - notebook
