@@ -1,0 +1,6 @@
+- instalar conda desde: https://docs.conda.io/projects/conda/en/stable/user-guide/install/index.html
+- conda create --name kwant-env python=3.9
+- conda activate kwant-env
+- conda install -c conda-forge kwant --solver=libmamba
+- conda install ipykernel
+- python -m ipykernel install --user --name=kwant-env
